@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- main colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_500">#6200EE</color>
+	<color name="purple_700">#3700B3</color>
+	<color name="teal_700">#00796B</color>
+	<color name="teal_200">#03DAC5</color>
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="purple_200">#CE93D8</color>
+
+	<color name="_bg__main_ek2_color">#FFFFFF</color>
+	<color name="_bg__main_color">#FFFFFF</color>
+	<color name="_bg__homescreen_ek2_color">#FFFFFF</color>
+	<color name="ellipse_15_color">#C4C4C4</color>
+	<color name="matt_s_room_color">#2D0C57</color>
+	<color name="backdrop_base_color">#DAE8EF</color>
+	<color name="_1_person_inside_color">#1586BC</color>
+	<color name="rectangle_13_color">#FDFCFC</color>
+	<color name="block_color">#ffffff</color>
+	<color name="divider_color">#D8D0E3</color>
+	<color name="rectangle_12_color">#7BA7BB</color>
+	<color name="log_out_color">#000000</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- main strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="log_out_string">Log out</string>
+	<string name="matt_s_room_string">Matt\'s Room</string>
+	<string name="_1_person_inside_string">1 person inside</string>
+	<string name="current_o2_level__string">Current O2 Level:</string>
+	<string name="_60__string">60% </string>
+	<string name="camera_view_string">Camera view</string>
+</resources>
